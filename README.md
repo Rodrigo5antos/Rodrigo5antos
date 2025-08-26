@@ -58,7 +58,7 @@ Se você procura alguém **comprometido, curioso e pronto para aprender**, vamos
 
 📫 **Onde me encontrar:**  
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-aguiar-dos-santos/?trk=opento_sprofile_topcard)  
-- [E-mail](guigo.rag@gmail.com)  
+- [E-mail](mailto:guigo.rag@gmail.com)  
 
 ---
 
