@@ -27,11 +27,12 @@ Essa experiência consolidou minha capacidade de **unir teoria e prática**, lid
 
 ---
 
-## 🎓 Formação & cursos
-- **Redes de Computadores** — (formação concluída)
-- **Análise de Sistemas** — UNINOVE (em andamento / retomado em 2017)
-- **Análise de Sistemas e TI** — FATEC (iniciado em 2009; interrompido)
-- **Cursos no SENAI** — focados em fundamentos de hardware/software
+## 🎓 Formação & Cursos
+- **Redes de Computadores** — UNINOVE (concluído)  
+- **Análise de Sistemas** — Universidade Cruzeiro do Sul (em andamento)  
+- **SENAI**  
+  - Manutenção de Computadores e Redes  
+  - Cabeamento Estruturado  
 
 ---
 
@@ -59,11 +60,12 @@ Conquistar minha primeira oportunidade em **desenvolvimento**, em empresas que v
 ---
 
 ## 📫 Contato
-- **E-mail:** [guigo.rag@gmail.com](mailto:guigo.rag@gmail.com)
-- **LinkedIn:** [linkedin.com/in/rodrigo-aguiar-dos-santos](https://www.linkedin.com/in/rodrigo-aguiar-dos-santos/)
+- **E-mail:** [guigo.rag@gmail.com](mailto:guigo.rag@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/rodrigo-aguiar-dos-santos](https://www.linkedin.com/in/rodrigo-aguiar-dos-santos/)  
 
 ---
 
 > “Acredito que conhecimento profundo é a base para desenvolver tecnologia transformadora, relevante e ética.”
+
 
 
