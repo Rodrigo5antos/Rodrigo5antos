@@ -57,7 +57,7 @@ Se você procura alguém **comprometido, curioso e pronto para aprender**, vamos
 ---
 
 📫 **Onde me encontrar:**  
-- [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN)  
+- [LinkedIn](www.linkedin.com/in/rodrigo-aguiar-dos-santos)  
 - [E-mail](mailto:seuemail@exemplo.com)  
 
 ---
