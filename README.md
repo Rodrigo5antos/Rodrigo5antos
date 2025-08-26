@@ -32,7 +32,7 @@ Essa experiência consolidou minha capacidade de **unir teoria e prática**, lid
 - **Análise de Sistemas** — Universidade Cruzeiro do Sul (em andamento)  
 - **SENAI**  
   - Manutenção de Computadores e Redes  
-  - Cabeamento Estruturado  
+  - Redes de Computadores e Cabeamento Estruturado  
 
 ---
 
