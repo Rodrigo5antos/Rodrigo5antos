@@ -1,66 +1,32 @@
-# 👋 Olá, eu sou o Rodrigo!  
+# 👨‍💻 Rodrigo Aguiar do Santos  
 
-💼 **Graduado em Redes de Computadores** | 🎓 **Estudante de Análise de Sistemas**  
-💻 Explorando **HTML, CSS, JavaScript, Python e React Native**  
+💼 Formado em Redes de Computadores | Estudante de Análise de Sistemas | Foco em HTML, CSS, JavaScript e React Native | Construindo uma base sólida rumo à excelência técnica  
 
 ---
 
 ## 🚀 Sobre mim  
+Minha jornada na tecnologia começou com curiosidade e resiliência. Trabalhando no RH, enfrentei limitações com computadores e técnicos, o que me motivou a buscar cursos no SENAI e investir em meu próprio equipamento. A partir daí, mergulhei em Redes de Computadores, expandindo conhecimentos e hoje sigo em constante evolução em **Análise de Sistemas** e áreas que exigem profundidade técnica.  
 
-Minha jornada na tecnologia nasceu da curiosidade e da persistência. Trabalhando no setor de RH, precisei lidar com computadores problemáticos e soluções ineficazes — foi aí que despertei o interesse em aprender por conta própria.  
-
-Iniciei cursos no SENAI, investi em um computador novo e mergulhei no mundo de hardware e software, o que me levou a me especializar em **Redes de Computadores**. Hoje, sigo aprofundando meus conhecimentos em **Análise de Sistemas**, unindo minhas formações e experiências para criar soluções de impacto.  
-
-Em 2009, iniciei o curso de Análise de Sistemas e TI na FATEC, mas precisei interromper para me dedicar à minha primeira filha, mantendo os estudos de forma independente. Em 2017, retomei a graduação na UNINOVE e, desde então, venho ampliando minhas competências em diferentes áreas da TI.  
+Atualmente, busco unir minha primeira formação em **Redes** com os novos aprendizados em **Desenvolvimento**, sempre com foco em criar soluções que gerem impacto real e sustentável.  
 
 ---
 
-## 🏆 Experiência prática  
-
-Um dos meus maiores desafios foi em um clube de futebol, onde trabalhava no setor financeiro e também prestava suporte em TI:  
-
-- Planejei e implementei toda a rede lógica e física  
-- Selecionei servidores, roteadores, switches e cabos  
-- Configurei sistemas, servidores e segurança  
-- Fiz testes, documentação e otimizações  
-- Assumi suporte e administração de toda a infraestrutura (sede social, alojamentos, setores administrativos e até cabines de imprensa no Estádio Municipal – casa do A.D. São Caetano)  
-
-Essa experiência consolidou minha capacidade de unir **teoria e prática em projetos reais**.  
-
----
-
-## 🛠️ Tecnologias e ferramentas  
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Networks](https://img.shields.io/badge/-Networking-29ABE2?logo=cisco&logoColor=white&style=for-the-badge)
+## 🛠️ Tecnologias principais  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
 ---
 
 ## 📊 Estatísticas do GitHub  
-
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)  
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo5antos&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo5antos&layout=compact&theme=tokyonight)  
 
 ---
 
-## 🎯 Objetivo  
-
-Conquistar minha primeira oportunidade em **desenvolvimento**, em empresas que valorizem profundidade técnica, criatividade e impacto real.  
-
-Se você procura alguém **comprometido, curioso e pronto para aprender**, vamos conversar!  
-
----
-
-📫 **Onde me encontrar:**  
-- [LinkedIn](https://www.linkedin.com/in/rodrigo-aguiar-dos-santos/?trk=opento_sprofile_topcard)  
-- [E-mail](mailto:guigo.rag@gmail.com)  
-
----
-
-⚡ *"Acredito que conhecimento profundo é a base para desenvolver tecnologia transformadora, relevante e ética."*  
+## 📫 Contato  
+- **E-mail:** [guigo.rag@gmail.com](mailto:guigo.rag@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/rodrigo-aguiar-dos-santos](https://www.linkedin.com/in/rodrigo-aguiar-dos-santos/)  
 
