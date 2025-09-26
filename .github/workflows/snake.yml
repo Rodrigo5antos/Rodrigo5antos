@@ -8,6 +8,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write # dá permissão de escrita no repositório
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,12 +18,12 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # garante histórico completo para o Snake
+          fetch-depth: 0 # garante histórico completo para o Snake
 
       - name: Gerar animação da cobrinha 🐍
         uses: Platane/snk@v3
         with:
-          github_user_name: Rodrigo5antos
+          github_user_name: RodrigoSantos
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Publicar no branch de saída
@@ -30,3 +33,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
