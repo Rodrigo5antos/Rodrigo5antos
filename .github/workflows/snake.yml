@@ -1,29 +1,31 @@
 name: Generate Snake
 
 on:
-  schedule: # Gera todo dia às 23:59
+  schedule:
     - cron: "59 23 * * *"
-  workflow_dispatch: # Permite rodar manualmente
+  workflow_dispatch:
   push:
     branches:
-      - main
+      - main  # troque para "master" se essa for sua branch principal
 
 permissions:
-  contents: write # dá permissão de escrita no repositório
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout do repositório
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # garante histórico completo para o Snake
+          fetch-depth: 0
 
       - name: Gerar animação da cobrinha 🐍
         uses: Platane/snk@v3
         with:
-          github_user_name: RodrigoSantos
+          github_user_name: Rodrigo5antos  # coloque exatamente seu user GitHub
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Publicar no branch de saída
@@ -33,4 +35,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
